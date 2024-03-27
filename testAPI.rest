@@ -1,0 +1,41 @@
+GET http://localhost:8080/listTivi
+###
+GET http://localhost:8080/listMobile
+###
+GET http://localhost:8080/listUser
+###
+GET http://localhost:8080/listFood
+### Hình
+GET http://localhost:8080/TIVI_20.png
+### Thêm
+POST http://localhost:8080/insertUser
+Content-Type: application/json
+
+{
+        "Ho_ten": "Nguyễn Anh Flutter",
+        "Ma_so": "QL_100",
+        "Ten_Dang_nhap": "nanh",
+        "Mat_khau": "nanh",
+        "Nhom_Nguoi_dung": {
+            "Ten": "Nhân viên Quản lý",
+            "Ma_so": "NHAN_VIEN_QUAN_LY"
+        }
+}
+### Sửa
+PUT http://localhost:8080/updateUser
+Content-Type: application/json
+
+{
+        "Ho_ten": "Nguyễn Anh Tuấn Em",
+        "Ma_so": "QL_100",
+        "Ten_Dang_nhap": "natuan",
+        "Mat_khau": "natuan@123456"
+        
+}
+### Xóa
+DELETE http://localhost:8080/deleteUser
+Content-Type: application/json
+
+{
+        "Ma_so": "QL_100"        
+}

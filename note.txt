@@ -1,0 +1,29 @@
+
+Tạo tập tin package.json
+    npm init --y
+Cài đặt các gói module
+    npm i <module Name> --s
+Cài đặt các gói module theo phiên bản
+    npm i <module Name>@x.x.xx --s
+Gỡ cài đặt các gói module
+    npm uninstall <module Name>
+Cài đặt các gói module trong tập tin package
+    npm i
+=====================================================================
+
+Thực thi Service
+
+Cách 1: Debug -> F5
+Cách 2: Terminal: node .\service.js
+    stop: Ctrl + C 
+Cách 3: Terminal: npm start
+    package.json
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./services.js"
+  }
+  stop: Ctrl + C -> Y
+===============================================
+Test API
+Extension của VS Code -> Rest Client Install
+Tạo tập tin testAPI.http ||  testAPI.rest 
