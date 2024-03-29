@@ -1,0 +1,172 @@
+[
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Aqua 130 lít AQR-T150FA(BS) ",
+        "Ma_so": "TU_LANH_1",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 4590000,
+        "Don_gia_Nhap": 4000000,
+        "So_luong_Ton": 9,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tulanh": {
+            "Ten": "Aqua",
+            "Ma_so": "AQUA"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Toshiba Inverter 180 lít GR-B22VU UKG",
+        "Ma_so": "TU_LANH_2",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 4990000,
+        "Don_gia_Nhap": 4500000,
+        "So_luong_Ton": 10,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Toshiba",
+            "Ma_so": "TOSHIBA"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Panasonic Inverter 170 lít NR-BA190PPVN",
+        "Ma_so": "TU_LANH_3",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 4990000,
+        "Don_gia_Nhap": 4500000,
+        "So_luong_Ton": 7,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Panasonic",
+            "Ma_so": "PANASONIC"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Samsung Inverter 236 lít RT22M4032BY/SV ",
+        "Ma_so": "TU_LANH_4",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 5990000,
+        "Don_gia_Nhap": 5500000,
+        "So_luong_Ton": 12,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Samsung",
+            "Ma_so": "SAMSUNG"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "LG Inverter 217 Lít GV-B212WB",
+        "Ma_so": "TU_LANH_5",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 5890000,
+        "Don_gia_Nhap": 5590000,
+        "So_luong_Ton": 9,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Lg",
+            "Ma_so": "LG"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Samsung Inverter 655 lít Side By Side RS62R5001M9/SV",
+        "Ma_so": "TU_LANH_6",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 17790000,
+        "Don_gia_Nhap": 17490000,
+        "So_luong_Ton": 9,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Samsung",
+            "Ma_so": "SAMSUNG"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Samsung Inverter 382 lít RT38CG6584B1SV",
+        "Ma_so": "TU_LANH_7",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 13390000,
+        "Don_gia_Nhap": 13000000,
+        "So_luong_Ton": 6,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Samsung",
+            "Ma_so": "SAMSUNG"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Samsung Inverter 280 lít RB27N4010BU/SV",
+        "Ma_so": "TU_LANH_8",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 8990000,
+        "Don_gia_Nhap": 8490000,
+        "So_luong_Ton": 8,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Samsung",
+            "Ma_so": "SAMSUNG"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "LG Inverter 519 lít Side By Side GR-B256JDS",
+        "Ma_so": "TU_LANH_9",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 13990000,
+        "Don_gia_Nhap": 13490000,
+        "So_luong_Ton": 14,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Lg",
+            "Ma_so": "LG"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Aqua Inverter 320 lít AQR-B399MA(WHB) ",
+        "Ma_so": "TU_LANH_10",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 10490000,
+        "Don_gia_Nhap": 10000000,
+        "So_luong_Ton": 5,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Aqua",
+            "Ma_so": "AQUA"
+        }
+    }
+]
