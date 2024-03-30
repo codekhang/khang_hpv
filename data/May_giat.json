@@ -1,0 +1,172 @@
+[
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Toshiba 7 Kg AW-L805AV (SG)",
+        "Ma_so": "MAY_GIAT_1",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 5190000,
+        "Don_gia_Nhap": 3990000,
+        "So_luong_Ton": 9,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tulanh": {
+            "Ten": "Toshiba",
+            "Ma_so": "TOSHIBA"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Toshiba 8 kg AW-M905BV(MK) ",
+        "Ma_so": "MAY_GIAT_2",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 5490000,
+        "Don_gia_Nhap": 4990000,
+        "So_luong_Ton": 10,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Toshiba",
+            "Ma_so": "TOSHIBA"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Panasonic 8.2 kg NA-F82Y01DRV",
+        "Ma_so": "MAY_GIAT_3",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 4990000,
+        "Don_gia_Nhap": 4500000,
+        "So_luong_Ton": 7,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Panasonic",
+            "Ma_so": "PANASONIC"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Toshiba 10 kg AW-M1100PV(MK)",
+        "Ma_so": "MAY_GIAT_4",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 6990000,
+        "Don_gia_Nhap": 5990000,
+        "So_luong_Ton": 12,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Toshiba",
+            "Ma_so": "TOSHIBA"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Panasonic 8.5 Kg NA-F85A9BRV",
+        "Ma_so": "MAY_GIAT_5",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 5990000,
+        "Don_gia_Nhap": 5590000,
+        "So_luong_Ton": 9,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Panasonic",
+            "Ma_so": "PANASONIC"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Sharp 7.5 Kg ES-Y75HV-S",
+        "Ma_so": "MAY_GIAT_6",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 4690000,
+        "Don_gia_Nhap": 3690000,
+        "So_luong_Ton": 9,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Sharp",
+            "Ma_so": "SHARP"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Samsung Inverter 8kg WW80T3020WW/SV",
+        "Ma_so": "MAY_GIAT_7",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 8000000,
+        "Don_gia_Nhap": 4990000,
+        "So_luong_Ton": 6,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Samsung",
+            "Ma_so": "SAMSUNG"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Electrolux UltimateCare 100 Inverter 9 kg EWF9025DQWB",
+        "Ma_so": "MAY_GIAT_8",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 9990000,
+        "Don_gia_Nhap": 7990000,
+        "So_luong_Ton": 8,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Electrolux",
+            "Ma_so": "ELECTROLUX"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Aqua Inverter 9 kg AQD- D902G BK",
+        "Ma_so": "MAY_GIAT_9",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 12490000,
+        "Don_gia_Nhap": 7390000,
+        "So_luong_Ton": 14,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Aqua",
+            "Ma_so": "AQUA"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5d5c5ff28032171fd0884a36"
+        },
+        "Ten": "Samsung AI Inverter 9kg WW90TP44DSB/SV ",
+        "Ma_so": "MAY_GIAT_10",
+        "Ky_hieu": "UA43M5500",
+        "Don_gia_Ban": 15690000,
+        "Don_gia_Nhap": 9890000,
+        "So_luong_Ton": 5,
+        "Danh_sach_Phieu_Ban": [],
+        "Danh_sach_Phieu_Nhap": [],
+        "Nhom_Tivi": {
+            "Ten": "Samsung",
+            "Ma_so": "SAMSUNG"
+        }
+    }
+]
