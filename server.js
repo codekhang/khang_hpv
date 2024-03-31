@@ -8,6 +8,7 @@ const server = http.createServer((req, res) => {
     let method = req.method;
     let url = req.url;
     let kq = `Server Node - Method:${method} - Url:${url}`;
+     res.setHeader("Access-Control-Allow-Origin", '*');
     let noi_dung_nhan = ``;
     switch (method) {
         case "GET":
