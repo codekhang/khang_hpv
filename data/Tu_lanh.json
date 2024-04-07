@@ -3,7 +3,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Aqua 130 lít AQR-T150FA(BS) ",
+        "Ten": "Aqua 130 lit AQR-T150FA(BS) ",
         "Ma_so": "TU_LANH_1",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 4590000,
@@ -20,7 +20,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Toshiba Inverter 180 lít GR-B22VU UKG",
+        "Ten": "Toshiba Inverter 180 lit GR-B22VU UKG",
         "Ma_so": "TU_LANH_2",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 4990000,
@@ -37,7 +37,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Panasonic Inverter 170 lít NR-BA190PPVN",
+        "Ten": "Panasonic Inverter 170 lit NR-BA190PPVN",
         "Ma_so": "TU_LANH_3",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 4990000,
@@ -54,7 +54,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Samsung Inverter 236 lít RT22M4032BY/SV ",
+        "Ten": "Samsung Inverter 236 lit RT22M4032BY/SV ",
         "Ma_so": "TU_LANH_4",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 5990000,
@@ -71,7 +71,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "LG Inverter 217 Lít GV-B212WB",
+        "Ten": "LG Inverter 217 Lit GV-B212WB",
         "Ma_so": "TU_LANH_5",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 5890000,
@@ -88,7 +88,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Samsung Inverter 655 lít Side By Side RS62R5001M9/SV",
+        "Ten": "Samsung Inverter 655 lit Side By Side RS62R5001M9/SV",
         "Ma_so": "TU_LANH_6",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 17790000,
@@ -105,7 +105,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Samsung Inverter 382 lít RT38CG6584B1SV",
+        "Ten": "Samsung Inverter 382 lit RT38CG6584B1SV",
         "Ma_so": "TU_LANH_7",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 13390000,
@@ -122,7 +122,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Samsung Inverter 280 lít RB27N4010BU/SV",
+        "Ten": "Samsung Inverter 280 lit RB27N4010BU/SV",
         "Ma_so": "TU_LANH_8",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 8990000,
@@ -139,7 +139,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "LG Inverter 519 lít Side By Side GR-B256JDS",
+        "Ten": "LG Inverter 519 lit Side By Side GR-B256JDS",
         "Ma_so": "TU_LANH_9",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 13990000,
@@ -156,7 +156,7 @@
         "_id": {
             "$oid": "5d5c5ff28032171fd0884a36"
         },
-        "Ten": "Aqua Inverter 320 lít AQR-B399MA(WHB) ",
+        "Ten": "Aqua Inverter 320 lit AQR-B399MA(WHB) ",
         "Ma_so": "TU_LANH_10",
         "Ky_hieu": "UA43M5500",
         "Don_gia_Ban": 10490000,
