@@ -1,0 +1,49 @@
+[
+  {
+ 
+    "Ho_ten": "Quách Thị Hương Tràm",
+    "Ma_so": "KH1",
+    "Ten_Dang_nhap": "KH1",
+    "Mat_khau": "11111",
+    "CMND": "060763708",
+    "Gioi_tinh": "Nữ",
+    "Ngay_sinh": "2004-08-09",
+    "Dia_chi": "431 Đổ thành Lộc,Phường 5,Quận 11, Ho Chi Minh City, Ho Chi Minh, Vietnam",
+    "Nhom_Nguoi_dung": {
+    "Ten": "Nhân viên Bán hàng",
+    "Ma_so": "NHAN_VIEN_BAN_HANG"
+    }
+    },
+    
+{
+ 
+"Ho_ten": "Tô Thị Bé Bé",
+"Ma_so": "KH2",
+"Ten_Dang_nhap": "KH2",
+"Mat_khau": "22222",
+"CMND": "020148456",
+"Gioi_tinh": "Nu",
+"Ngay_sinh": "2004-07-04",
+"Dia_chi": "410 Hà thiện cẩm Thúy,Phường 5,Quận Thủ đức, Ho Chi Minh City, Ho Chi Minh, Vietnam",
+"Nhom_Nguoi_dung": {
+"Ten": "Nhân viên Bán hàng",
+"Ma_so": "NHAN_VIEN_BAN_HANG"
+}
+},
+{
+ 
+  "Ho_ten": "Nguyễn Văn Hải",
+  "Ma_so": "KH3",
+  "Ten_Dang_nhap": "KH3",
+  "Mat_khau": "33333",
+  "CMND": "030787434",
+  "Gioi_tinh": "Nam",
+  "Ngay_sinh": "2004-09-04",
+  "Dia_chi": "271 Bạch ngọc Bình,Phường 6,Quận 10, Ho Chi Minh City, Ho Chi Minh, Vietnam",
+  "Nhom_Nguoi_dung": {
+    "Ten": "Nhân viên Nhập hàng",
+    "Ma_so": "NHAN_VIEN_NHAP_HANG"
+  }
+}
+
+  ]
